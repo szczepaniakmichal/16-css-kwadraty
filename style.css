@@ -1,0 +1,30 @@
+#glowny{
+    position: relative;
+    height: 550px;
+    width: 300px;
+    background-color: gray;
+}
+h1{
+    position: absolute;
+    color: white;
+    margin: 15px 0px 0px 40px;
+}
+.podrzedny{
+    position: absolute;
+    left: 50px;
+    width: 100px;
+    height: 100px;
+    background-color: gold; 
+}
+#div1{
+    top: 70px;
+}
+#div2{
+    top: 180px;
+}
+#div3{
+    top: 290px;
+}
+#div4{
+    top: 400px;
+}
