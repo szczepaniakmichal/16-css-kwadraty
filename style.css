@@ -1,3 +1,6 @@
+#baza{
+
+}
 #glowny{
     position: relative;
     height: 550px;
@@ -7,7 +10,7 @@
 h1{
     position: absolute;
     color: white;
-    margin: 15px 0px 0px 40px;
+    margin: 15px 0 0 40px;
 }
 .podrzedny{
     position: absolute;
@@ -26,5 +29,5 @@ h1{
     top: 290px;
 }
 #div4{
-    top: 400px;
+    top: 300px;
 }
